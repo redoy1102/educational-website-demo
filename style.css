@@ -28,6 +28,26 @@ body{
     letter-spacing: 0;
     text-align: left;
 }
+.course-fees{
+    color: #000;
+    size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    spacing: 0;
+}
+.december{
+    color: red;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    font-family: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+}
 
 .second-div-image{
     height: auto;
@@ -91,6 +111,42 @@ div.second-div{
     background-color:red;
     color: white;
 }
-
-
 /* Section of course card end */
+
+/* Section of extra start */
+.live-section{
+    margin-top:50px;
+}
+.extra{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: #7b2171;
+    font-size: 70px;
+}
+.live-class-written{
+    text-align: right;
+    font-size: 42px;
+    line-height: 60px;
+    white-space: inherit;
+}
+.live-class-written-p{
+    text-align: right;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0 0 20px;
+}
+.live-class-img{
+    vertical-align: middle;
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+.card-margin-top-style{
+    margin-top: 100px;
+}
+
+
