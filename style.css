@@ -1,0 +1,96 @@
+
+body{
+    letter-spacing: .4px;
+}
+.head-line{
+    text-align: center;
+    font-size:22px;
+    /* line-height: 26px; */
+    background-color: #664FAA;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+/* second of first div */
+.primary-part{
+    color: #000;
+    font-size: 45px;
+    line-height: 50px;
+    letter-spacing: 0;
+     margin-top: 50px;
+}
+
+.job-preparation{
+    color: #ed1c24;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 86px;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+.second-div-image{
+    height: auto;
+    max-width: 100%;
+    border: none;
+}
+
+div.second-div{
+    background-color: #faf5d5;
+    margin-bottom: 10px;
+}
+.second-div-body{
+    margin-top:10px;
+}
+.second-div-btn{
+    margin-bottom: 10px;
+}
+/* Section of video card start */
+.video-card-para{
+    margin-top: 50px;
+    font-family: SolaimanLipi,ABeeZee;
+    font-weight: normal;
+    color: #7b2171;
+    font-size: 100%;
+    text-align: center;
+    font-size: 70px;
+}
+/* Section of video card end */
+
+/* Section of course card start */
+.card-title {
+    text-align: center;
+    background: #081B87;
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: white;
+    font-size: 24px;
+}
+.card{
+    width: 60%;
+    margin-left: 115px;
+}
+.course-button{
+    border: 1px solid #ED1C24;
+    color: #4D4D4D;
+    border-radius: 30px;
+    padding: 10px 40px;
+    font-size: 20px;
+    line-height: 24px;
+    display: inline-block;
+    background-color: transparent;
+    margin: 0;
+    cursor: pointer;
+    text-align: center;
+}
+.course-button:hover{
+    background-color:red;
+    color: white;
+}
+
+
+/* Section of course card end */
